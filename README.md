@@ -1,13 +1,9 @@
-# anom-Dotfiles
 
-My personal Linux **dotfiles**, focused on a clean, minimal, and functional **Wayland rice** built around **Hyprland**.
-
-> ⚠️ These dotfiles are tailored for my workflow. Use them as inspiration and adapt as needed.
-
-> ⚠️ Make every script executable (by chmod +x filename.sh) or some utils not gonna work.
+<table> <tr> <td align="center"><b>Desktop</b></td> <td align="center"><b>Hyprlock</b></td> </tr> <tr> <td> <img src="https://github.com/user-attachments/assets/b22c2f1d-b650-414e-91b1-6a8be84406bc" width="100%"> </td> <td> <img src="https://github.com/user-attachments/assets/e78884ce-bddb-4ff9-a166-35dca00072e3" width="100%"> </td> </tr> </table> <br> <table> <tr> <td align="center"><b>Rofi</b></td> <td align="center"><b>SwayNC + OSD</b></td> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/b558de08-b78f-485b-9749-32d51707f4ff" width="300"> </td> <td> <img src="https://github.com/user-attachments/assets/4a9043bb-464a-46a0-b274-f9d4db828343" width="100%"> </td> </tr> </table> <br> <table> <tr> <td align="center"><b>Waybar – Material Pills (Stable)</b></td> <td align="center"><b>Waybar – Minimal (Unstable)</b></td> </tr> <tr> <td> <img src="https://github.com/user-attachments/assets/12602c4a-19da-413e-82f7-180504db52e4" width="100%"> </td> <td> <img src="https://github.com/user-attachments/assets/de465e06-3983-4f5c-a684-01143d2bbf7d" width="100%"> </td> </tr> </table>
 
 ---
-<table> <tr> <td align="center"><b>Desktop</b></td> <td align="center"><b>Hyprlock</b></td> </tr> <tr> <td> <img src="https://github.com/user-attachments/assets/b22c2f1d-b650-414e-91b1-6a8be84406bc" width="100%"> </td> <td> <img src="https://github.com/user-attachments/assets/e78884ce-bddb-4ff9-a166-35dca00072e3" width="100%"> </td> </tr> </table> <br> <table> <tr> <td align="center"><b>Rofi</b></td> <td align="center"><b>SwayNC + OSD</b></td> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/b558de08-b78f-485b-9749-32d51707f4ff" width="300"> </td> <td> <img src="https://github.com/user-attachments/assets/4a9043bb-464a-46a0-b274-f9d4db828343" width="100%"> </td> </tr> </table> <br> <table> <tr> <td align="center"><b>Waybar – Material Pills (Stable)</b></td> <td align="center"><b>Waybar – Minimal (Unstable)</b></td> </tr> <tr> <td> <img src="https://github.com/user-attachments/assets/12602c4a-19da-413e-82f7-180504db52e4" width="100%"> </td> <td> <img src="https://github.com/user-attachments/assets/de465e06-3983-4f5c-a684-01143d2bbf7d" width="100%"> </td> </tr> </table>
+
+<h1 align="center"> anom-Dotfiles </h1>
 
 <p align="center">
   <a href="https://github.com/atif-1402/anom-dots/stargazers"><img src="https://img.shields.io/github/stars/atif-1402/anom-dots?color=057E6A&style=for-the-badge&logo=starship"></a>
@@ -15,6 +11,12 @@ My personal Linux **dotfiles**, focused on a clean, minimal, and functional **Wa
   <a href="https://github.com/atif-1402/anom-dots/network/members"><img src="https://img.shields.io/github/forks/atif-1402/anom-dots?color=8aadf4&style=for-the-badge&logo=jfrog-bintray"></a>
   <!-- <a href="https://github.com/atif-1402/anom-dots/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange.svg?color=a6da95&style=for-the-badge&logo=mitsubishi"></a> -->
 </p>
+
+My personal Linux **dotfiles**, focused on a clean, minimal, and functional **Wayland rice** built around **Hyprland**.
+
+> ⚠️ These dotfiles are tailored for my workflow. Use them as inspiration and adapt as needed.
+
+> ⚠️ Make every script executable (by chmod +x filename.sh) or some utils not gonna work.
 
 ---
 
