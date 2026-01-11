@@ -72,8 +72,6 @@ Wallpapers/        # Wallpapers
 
 > **Modifier:** `SUPER`
 
-### 🚀 Apps & Utilities
-
 <details> <summary><b>🚀 Apps & Utilities</b></summary> <br> <table> <tr><th>Key</th><th>Action</th></tr> <tr><td>SUPER + Enter</td><td>Terminal (Kitty)</td></tr> <tr><td>SUPER + E</td><td>File Manager</td></tr> <tr><td>SUPER + Shift + B</td><td>Firefox</td></tr> <tr><td>SUPER + Space</td><td>App Launcher (Rofi)</td></tr> <tr><td>SUPER + Shift + Space</td><td>Reload Waybar</td></tr> <tr><td>CTRL + Space</td><td>Wallpaper Selector</td></tr> <tr><td>SUPER + Shift + E</td><td>Emoji Picker</td></tr> <tr><td>SUPER + Shift + I</td><td>Icon Picker</td></tr> <tr><td>SUPER + Shift + W</td><td>Waybar Theme Switcher</td></tr> <tr><td>SUPER + Alt + Space</td><td>Main Menu (Rofi)</td></tr> <tr><td>SUPER + L</td><td>Lock Screen</td></tr> </table> </details>
 <details> <summary><b>🪟 Window Management</b></summary> <br> <table> <tr><th>Key</th><th>Action</th></tr> <tr><td>SUPER + W</td><td>Close Window</td></tr> <tr><td>SUPER + T</td><td>Toggle Floating</td></tr> <tr><td>SUPER + P</td><td>Pseudo Tiling</td></tr> <tr><td>SUPER + J</td><td>Toggle Split</td></tr> <tr><td>SUPER + Mouse Left</td><td>Move Window</td></tr> <tr><td>SUPER + Mouse Right</td><td>Resize Window</td></tr> </table> </details>
 <details> <summary><b>🧭 Workspaces</b></summary> <br> <table> <tr><th>Key</th><th>Action</th></tr> <tr><td>SUPER + 1–9</td><td>Switch Workspace</td></tr> <tr><td>SUPER + 0</td><td>Workspace 10</td></tr> <tr><td>SUPER + Shift + 1–9</td><td>Move Window to Workspace</td></tr> <tr><td>SUPER + Shift + 0</td><td>Move Window to Workspace 10</td></tr> <tr><td>SUPER + Scroll</td><td>Cycle Workspaces</td></tr> </table> </details>
