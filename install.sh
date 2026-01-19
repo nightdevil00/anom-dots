@@ -11,10 +11,10 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PACMAN_BASE_PKGS=(
     git base-devel curl wget unzip rsync blueman
     wayland ttf-nerd-fonts-symbols ttf-cascadia-mono-nerd ttf-nerd-fonts-symbols-mono
-    pipewire pipewire-pulse wireplumber pavucontrol
+    pipewire pipewire-pulse wireplumber pavucontrol nautilus
     polkit polkit-gnome
     xdg-user-dirs xdg-utils
-    qt5-wayland qt6-wayland
+    qt5-wayland qt6-wayland spotify-launcher
     networkmanager network-manager-applet
     noto-fonts noto-fonts-emoji ttf-jetbrains-mono
 )
@@ -29,7 +29,7 @@ HYPR_PACMAN_PKGS=(
     swww mako
     foot alacritty
     thunar thunar-archive-plugin file-roller
-    rofi
+    rofi  
     fastfetch
 )
 
@@ -41,6 +41,7 @@ HYPR_AUR_PKGS=(
     gemini-cli
     opencode
     grimblast-git
+    visual-studio-code-bin
     matugen-bin
     swaync-git
 )
