@@ -37,6 +37,9 @@ HYPR_AUR_PKGS=(
     hyprpicker
     wlogout
     nwg-look
+    google-chrome
+    gemini-cli
+    opencode
     grimblast-git
     matugen-bin
     swaync-git
