@@ -39,7 +39,7 @@ HYPR_AUR_PKGS=(
     nwg-look
     grimblast-git
     matugen-bin
-    sway-notification-center
+    swaync-git
 )
 
 ### =====================================================
