@@ -13,7 +13,7 @@
     //MODULES//
 
 	"custom/apps": { 
-	    "format": "anom538",
+	    "format": "Arch",
 		"font-family": "JetBrainsMono Nerd Font",
 		"font-weight": 400,
 		"on-click": "~/.config/rofi/scripts/menu.sh"
@@ -154,6 +154,16 @@
      "spacing": 1,
      "on-click": "omarchy-launch-wifi"
     },
+
+"bluetooth": {
+    "format": "",
+    "format-off": "󰂲",
+    "format-disabled": "󰂲",
+    "format-connected": "󰂱",
+    "format-no-controller": "",
+    "tooltip-format": "Devices connected: {num_connections}",
+    "on-click": "blueman"
+  },
 
    "custom/notification": {
       "tooltip": true,
