@@ -23,7 +23,7 @@ HYPR_PACMAN_PKGS=(
     hyprland
     xdg-desktop-portal
     xdg-desktop-portal-hyprland
-    waybar wofi
+    waybar
     grim slurp swappy wl-clipboard
     brightnessctl playerctl
     swww mako
