@@ -9,7 +9,7 @@ BACKUP_SUFFIX=".bak"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 PACMAN_BASE_PKGS=(
-    git base-devel curl wget unzip rsync
+    git base-devel curl wget unzip rsync blueman
     wayland ttf-nerd-fonts-symbols ttf-cascadia-mono-nerd ttf-nerd-fonts-symbols-mono
     pipewire pipewire-pulse wireplumber pavucontrol
     polkit polkit-gnome
